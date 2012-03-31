@@ -1,0 +1,5 @@
+var enc = require('encodeuri_gbk');
+
+var url = 'http://中文url';
+url = enc.encodeGBKURI(url);
+
