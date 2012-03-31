@@ -1,0 +1,20 @@
+{
+  "author": "marc <marc126@126.com>",
+  "name": "encodeuri_gbk",
+  "description": "convert utf-8 to gbk, and encodeuri",
+  "version": "0.0.1",
+  "homepage": "https://github.com/marc126/encodeuri_gbk",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marc126/encodeuri_gbk.git"
+  },
+  "main": "main.js",
+  "dependencies": {
+	"iconv": "~1.1.3"
+	},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
