@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/marc126/encodeuri_gbk.png)](http://travis-ci.org/marc126/encodeuri_gbk)
 var enc = require('encodeuri_gbk');
 
 var url = 'http://中文url';
